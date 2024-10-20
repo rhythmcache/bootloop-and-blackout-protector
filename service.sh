@@ -11,7 +11,7 @@ MODULES_DIR="/data/adb/modules"  # Path to the modules directory
 LOG_FILE="/data/local/tmp/system_ui_stop.log"  # Path to log file
 BOOT_TIMEOUT=90  # Time in seconds to wait for system boot to complete
 BOOT_LOOP_THRESHOLD=3  # Number of boot attempts before considering it a boot loop
-MODULE_ID="abootloop"  # ID of this module
+MODULE_ID="bbootloop"  # ID of this module
 
 # Function to disable all KernelSU/Magisk modules except this one
 disable_all_modules_except_self() {
