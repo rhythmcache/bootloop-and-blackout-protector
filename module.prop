@@ -1,7 +1,6 @@
-id=abootloop
-name=Anti bootloop
-version=v1.3.1
-versionCode=5
-author=nedorazrab0
-description=Protection from bootloop
-updateJson=https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/update.json
+id=bbootloop
+name=bootloop and blackout protector
+version=v1
+versionCode=1
+author=rhythmcache
+description=Protection from bootloop and blackout
