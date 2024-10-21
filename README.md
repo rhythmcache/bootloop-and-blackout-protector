@@ -11,7 +11,7 @@
   
 #Bugs
 
-if you get any , you can write [here](https://t.me/rhyphxc)
+if you get any , you can write [here](https://t.me/scr1ptchat)
 
 
 
