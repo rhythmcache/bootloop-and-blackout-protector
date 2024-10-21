@@ -4,7 +4,7 @@
 - If the device fails to complete boot within  90 seconds  the script disables all modules
 - It also checks for repeated boot attempts and identifies if the device is stuck in a boot loop. If a boot loop is detected, script disables the modules, and trigger reboot.
 - if the SystemUI is stopped for more than 40 seconds  , this module takes action to prevent further issues,  disables all KernelSU/Magisk modules except itself and trigger a reboot.
-- you can change the threshold and monitor time by yourseld by editing `service.sh`
+- you can change the threshold and monitor time by yourself by editing `service.sh`
   
 - logs are stored in `/data/local/tmp/`
 
